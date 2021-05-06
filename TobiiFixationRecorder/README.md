@@ -1,0 +1,2 @@
+# TobiiFixationRecorder
+This is a program written for use with the Tobii EyeX eye-tracking device. It uses the Tobii C++ SDK to record the time stamps and locations of each fixation's start and stop. Originally created for research done at the Rochester Institute of Technology to monitor the fixation patterns of people who are deaf or hard of hearing while they watched videos with automated speech recognition-generated captioning
